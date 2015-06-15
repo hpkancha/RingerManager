@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Tap the markers to update your location and ringer mode.</string>
+    <string name="settings">Settings</string>
+    <string name="app_name">RingerManager</string>
+    <string name="ringermode_prompt">Choose a mode</string>
+    <string-array name="ringermodes_array">
+        <item>Default</item>
+        <item>Normal</item>
+        <item>Silent</item>
+        <item>Vibrate</item>
+    </string-array>
+
+</resources>
